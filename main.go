@@ -5,7 +5,7 @@ import (
 
 	//"novato.com/articles"
 
-	"novato.com/json"
+	"github.com/Rishaban-sudo/novato.com/json"
 )
 
 func main() {
